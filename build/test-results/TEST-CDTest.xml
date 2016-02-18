@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CDTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-02-17T22:44:55" hostname="epicodus-60.local" time="0.002">
+  <properties/>
+  <testcase name="all_returnsAllInstancesOfCD_true" classname="CDTest" time="0.0"/>
+  <testcase name="find_returnsNullWhenoCDFound_null" classname="CDTest" time="0.0"/>
+  <testcase name="CD_intantiatesWithDescription_true" classname="CDTest" time="0.0"/>
+  <testcase name="newId_tasksInstantiateWithAnID_true" classname="CDTest" time="0.001"/>
+  <testcase name="CD_intantiatesCorrectly_true" classname="CDTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
